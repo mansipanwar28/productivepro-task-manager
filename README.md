@@ -1,25 +1,25 @@
-# ProductivePro
+# ProductivePro - Task Manager
 
-ProductivePro is a modern task management web application designed to help users organize daily tasks efficiently.
+A modern and responsive task management web application built using HTML, CSS, and JavaScript.
 
-## Features
-- Add and delete tasks
+## 🚀 Features
+- Add tasks
+- Edit tasks
+- Delete tasks
 - Mark tasks as completed
 - Filter tasks
 - Task statistics
+- Local Storage support
 - Responsive UI
 
-## Technologies Used
-- HTML
-- CSS
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
 - JavaScript
 - Font Awesome
 
-## Future Improvements
-- Local Storage
-- Dark Mode
-- Task Priorities
-- Authentication
+## 📱 Responsive Design
+Fully responsive and optimized for mobile devices.
 
-## Author
+## 👩‍💻 Author
 Mansi Panwar
